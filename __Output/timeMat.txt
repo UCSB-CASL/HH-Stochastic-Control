@@ -1,0 +1,304 @@
+/Users/faranakrajabi/CLionProjects/CaslStochastic2DHHModel/cmake-build-release/CaslStochastic2DHHModel
+dt: 9.20465e-05
+phi_0, Export to Matlab at currentTime = 0
+phi(65, 130): 9.4248
+uStar(65, 130): 10
+dt: 9.52138e-05
+phi_1, Export to Matlab at currentTime = 0.0952107
+phi(66, 130): -7.94375
+uStar(66, 130): -7.60878
+dt: 9.52138e-05
+phi_2, Export to Matlab at currentTime = 0.190424
+phi(66, 130): -9.09222
+uStar(66, 130): -2.32823
+dt: 9.52138e-05
+phi_3, Export to Matlab at currentTime = 0.285638
+phi(65, 130): -9.36102
+uStar(65, 130): 1.17679
+dt: 9.52138e-05
+phi_4, Export to Matlab at currentTime = 0.380852
+phi(65, 130): -9.61275
+uStar(65, 130): 0.688541
+dt: 9.52138e-05
+phi_5, Export to Matlab at currentTime = 0.476066
+phi(65, 130): -9.83572
+uStar(65, 130): 0.372223
+dt: 9.52138e-05
+phi_6, Export to Matlab at currentTime = 0.57128
+phi(65, 130): -10.0343
+uStar(65, 130): 0.163066
+dt: 9.52138e-05
+phi_7, Export to Matlab at currentTime = 0.666494
+phi(65, 130): -10.2145
+uStar(65, 130): 0.031367
+dt: 9.52138e-05
+phi_8, Export to Matlab at currentTime = 0.761707
+phi(65, 130): -10.3767
+uStar(65, 130): -0.0443657
+dt: 9.52138e-05
+phi_9, Export to Matlab at currentTime = 0.856921
+phi(65, 130): -10.5194
+uStar(65, 130): -0.0782146
+dt: 9.52138e-05
+phi_10, Export to Matlab at currentTime = 0.952135
+phi(65, 130): -10.6414
+uStar(65, 130): -0.0813066
+dt: 9.52138e-05
+phi_11, Export to Matlab at currentTime = 1.04735
+phi(65, 130): -10.7427
+uStar(65, 130): -0.0631104
+dt: 9.52138e-05
+phi_12, Export to Matlab at currentTime = 1.14256
+phi(65, 130): -10.8245
+uStar(65, 130): -0.0314088
+dt: 9.52138e-05
+phi_13, Export to Matlab at currentTime = 1.23778
+phi(65, 130): -10.8887
+uStar(65, 130): 0.00784044
+dt: 9.52138e-05
+phi_14, Export to Matlab at currentTime = 1.33299
+phi(65, 130): -10.9379
+uStar(65, 130): 0.0499223
+dt: 9.52138e-05
+phi_15, Export to Matlab at currentTime = 1.4282
+phi(65, 130): -10.9745
+uStar(65, 130): 0.0914473
+dt: 9.52138e-05
+phi_16, Export to Matlab at currentTime = 1.52342
+phi(65, 130): -11.0009
+uStar(65, 130): 0.130282
+dt: 9.52138e-05
+phi_17, Export to Matlab at currentTime = 1.61863
+phi(65, 130): -11.0193
+uStar(65, 130): 0.165243
+dt: 9.52138e-05
+phi_18, Export to Matlab at currentTime = 1.71385
+phi(65, 130): -11.0313
+uStar(65, 130): 0.195809
+dt: 9.52138e-05
+phi_19, Export to Matlab at currentTime = 1.80906
+phi(65, 130): -11.0385
+uStar(65, 130): 0.221888
+dt: 9.52138e-05
+phi_20, Export to Matlab at currentTime = 1.90427
+phi(65, 130): -11.0419
+uStar(65, 130): 0.243659
+dt: 9.52138e-05
+phi_21, Export to Matlab at currentTime = 1.99949
+phi(65, 130): -11.0425
+uStar(65, 130): 0.261446
+dt: 9.52138e-05
+phi_22, Export to Matlab at currentTime = 2.0947
+phi(65, 130): -11.041
+uStar(65, 130): 0.275643
+dt: 9.52138e-05
+phi_23, Export to Matlab at currentTime = 2.18991
+phi(65, 130): -11.0378
+uStar(65, 130): 0.286659
+dt: 9.52138e-05
+phi_24, Export to Matlab at currentTime = 2.28513
+phi(65, 130): -11.0334
+uStar(65, 130): 0.294888
+dt: 9.52138e-05
+phi_25, Export to Matlab at currentTime = 2.38034
+phi(65, 130): -11.0281
+uStar(65, 130): 0.300693
+dt: 9.52138e-05
+phi_26, Export to Matlab at currentTime = 2.47556
+phi(65, 130): -11.0223
+uStar(65, 130): 0.304402
+dt: 9.52138e-05
+phi_27, Export to Matlab at currentTime = 2.57077
+phi(65, 130): -11.016
+uStar(65, 130): 0.306302
+dt: 9.52138e-05
+phi_28, Export to Matlab at currentTime = 2.66598
+phi(65, 130): -11.0094
+uStar(65, 130): 0.306648
+dt: 9.52138e-05
+phi_29, Export to Matlab at currentTime = 2.7612
+phi(65, 130): -11.0027
+uStar(65, 130): 0.305664
+dt: 9.52138e-05
+phi_30, Export to Matlab at currentTime = 2.85641
+phi(66, 130): -11.0054
+uStar(66, 130): -0.376898
+dt: 9.52138e-05
+phi_31, Export to Matlab at currentTime = 2.95163
+phi(66, 130): -11.0142
+uStar(66, 130): -0.348203
+dt: 9.52138e-05
+phi_32, Export to Matlab at currentTime = 3.04684
+phi(66, 130): -11.0214
+uStar(66, 130): -0.321728
+dt: 9.52138e-05
+phi_33, Export to Matlab at currentTime = 3.14205
+phi(66, 130): -11.0271
+uStar(66, 130): -0.297321
+dt: 9.52138e-05
+phi_34, Export to Matlab at currentTime = 3.23727
+phi(66, 130): -11.0315
+uStar(66, 130): -0.274845
+dt: 9.52138e-05
+phi_35, Export to Matlab at currentTime = 3.33248
+phi(66, 130): -11.0348
+uStar(66, 130): -0.254183
+dt: 9.52138e-05
+phi_36, Export to Matlab at currentTime = 3.42769
+phi(66, 130): -11.0373
+uStar(66, 130): -0.235232
+dt: 9.52138e-05
+phi_37, Export to Matlab at currentTime = 3.52291
+phi(66, 130): -11.0389
+uStar(66, 130): -0.217905
+dt: 9.52138e-05
+phi_38, Export to Matlab at currentTime = 3.61812
+phi(66, 130): -11.0397
+uStar(66, 130): -0.202129
+dt: 9.52138e-05
+phi_39, Export to Matlab at currentTime = 3.71334
+phi(66, 130): -11.0399
+uStar(66, 130): -0.187839
+dt: 9.52138e-05
+phi_40, Export to Matlab at currentTime = 3.80855
+phi(66, 130): -11.0395
+uStar(66, 130): -0.174981
+dt: 9.52138e-05
+phi_41, Export to Matlab at currentTime = 3.90376
+phi(66, 130): -11.0386
+uStar(66, 130): -0.163506
+dt: 9.52138e-05
+phi_42, Export to Matlab at currentTime = 3.99898
+phi(66, 130): -11.0372
+uStar(66, 130): -0.153371
+dt: 9.52138e-05
+phi_43, Export to Matlab at currentTime = 4.09419
+phi(66, 130): -11.0353
+uStar(66, 130): -0.144537
+dt: 9.52138e-05
+phi_44, Export to Matlab at currentTime = 4.18941
+phi(66, 130): -11.0329
+uStar(66, 130): -0.136967
+dt: 9.52138e-05
+phi_45, Export to Matlab at currentTime = 4.28462
+phi(66, 130): -11.0302
+uStar(66, 130): -0.130625
+dt: 9.52138e-05
+phi_46, Export to Matlab at currentTime = 4.37983
+phi(66, 130): -11.027
+uStar(66, 130): -0.125472
+dt: 9.52138e-05
+phi_47, Export to Matlab at currentTime = 4.47505
+phi(66, 130): -11.0235
+uStar(66, 130): -0.121469
+dt: 9.52138e-05
+phi_48, Export to Matlab at currentTime = 4.57026
+phi(66, 130): -11.0197
+uStar(66, 130): -0.11857
+dt: 9.52138e-05
+phi_49, Export to Matlab at currentTime = 4.66547
+phi(65, 129): -11.0185
+uStar(65, 129): 0.11988
+dt: 9.52138e-05
+phi_50, Export to Matlab at currentTime = 4.76069
+phi(65, 129): -11.0197
+uStar(65, 129): 0.116056
+dt: 9.52138e-05
+phi_51, Export to Matlab at currentTime = 4.8559
+phi(65, 129): -11.0207
+uStar(65, 129): 0.112573
+dt: 9.52138e-05
+phi_52, Export to Matlab at currentTime = 4.95112
+phi(65, 129): -11.0216
+uStar(65, 129): 0.109392
+dt: 9.52138e-05
+phi_53, Export to Matlab at currentTime = 5.04633
+phi(65, 129): -11.0223
+uStar(65, 129): 0.106472
+dt: 9.52138e-05
+phi_54, Export to Matlab at currentTime = 5.14154
+phi(65, 129): -11.023
+uStar(65, 129): 0.10378
+dt: 9.52138e-05
+phi_55, Export to Matlab at currentTime = 5.23676
+phi(65, 129): -11.0236
+uStar(65, 129): 0.101283
+dt: 9.52138e-05
+phi_56, Export to Matlab at currentTime = 5.33197
+phi(65, 129): -11.0241
+uStar(65, 129): 0.0989529
+dt: 9.52138e-05
+phi_57, Export to Matlab at currentTime = 5.42719
+phi(65, 129): -11.0246
+uStar(65, 129): 0.096762
+dt: 9.52138e-05
+phi_58, Export to Matlab at currentTime = 5.5224
+phi(65, 129): -11.0249
+uStar(65, 129): 0.0946865
+dt: 9.52138e-05
+phi_59, Export to Matlab at currentTime = 5.61761
+phi(65, 129): -11.0253
+uStar(65, 129): 0.0927046
+dt: 9.52138e-05
+phi_60, Export to Matlab at currentTime = 5.71283
+phi(65, 129): -11.0255
+uStar(65, 129): 0.0907965
+dt: 9.52138e-05
+phi_61, Export to Matlab at currentTime = 5.80804
+phi(65, 129): -11.0257
+uStar(65, 129): 0.0889451
+dt: 9.52138e-05
+phi_62, Export to Matlab at currentTime = 5.90325
+phi(65, 129): -11.0258
+uStar(65, 129): 0.0871355
+dt: 9.52138e-05
+phi_63, Export to Matlab at currentTime = 5.99847
+phi(65, 129): -11.0259
+uStar(65, 129): 0.0853555
+dt: 9.52138e-05
+phi_64, Export to Matlab at currentTime = 6.09368
+phi(65, 129): -11.0259
+uStar(65, 129): 0.0835949
+dt: 9.52138e-05
+phi_65, Export to Matlab at currentTime = 6.1889
+phi(65, 129): -11.0259
+uStar(65, 129): 0.0818462
+dt: 9.52138e-05
+phi_66, Export to Matlab at currentTime = 6.28411
+phi(65, 129): -11.0258
+uStar(65, 129): 0.0801042
+dt: 9.52138e-05
+phi_67, Export to Matlab at currentTime = 6.37932
+phi(65, 129): -11.0256
+uStar(65, 129): 0.0783658
+dt: 9.52138e-05
+phi_68, Export to Matlab at currentTime = 6.47454
+phi(65, 129): -11.0254
+uStar(65, 129): 0.0766296
+dt: 9.52139e-05
+phi_69, Export to Matlab at currentTime = 6.56975
+phi(65, 129): -11.0251
+uStar(65, 129): 0.0748952
+dt: 9.52139e-05
+phi_70, Export to Matlab at currentTime = 6.66497
+phi(65, 129): -11.0247
+uStar(65, 129): 0.073157
+dt: 9.5214e-05
+phi_71, Export to Matlab at currentTime = 6.76018
+phi(65, 129): -11.0242
+uStar(65, 129): 0.0713954
+dt: 9.52141e-05
+phi_72, Export to Matlab at currentTime = 6.85539
+phi(65, 129): -11.0237
+uStar(65, 129): 0.0695878
+dt: 9.52145e-05
+phi_73, Export to Matlab at currentTime = 6.95061
+phi(65, 129): -11.023
+uStar(65, 129): 0.0677262
+dt: 0
+phi_74, Export to Matlab at currentTime = 7
+phi(65, 129): -11.0226
+uStar(65, 129): 0.0667429
+Time taken by function: 3654151087 microseconds
+
+Process finished with exit code 0
