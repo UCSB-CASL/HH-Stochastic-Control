@@ -59,8 +59,7 @@ MIT License. See the LICENSE file for details.
 For questions about the code, please open an issue on GitHub.
 
 Release Information
+
 Version: v1.0
 Author: @faranakR
-Released: 1 hour ago
-Commit: 87eb8f7
-Description: Initial release for MATLAB post-processing code/data for stochastic optimal control for neural oscillators.
+
