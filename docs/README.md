@@ -1,6 +1,6 @@
 # Stochastic Optimal Control for Neural Oscillators
 
-[![DOI](https://zenodo.org/badge/881074337.svg)](https://doi.org/10.5281/zenodo.14015304)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14015566.svg)](https://doi.org/10.5281/zenodo.14015566)
 
 This repository contains the MATLAB post-processing code and data for analyzing stochastic Hodgkin-Huxley neural networks under event-based control strategies. The code implements numerical solutions of Hamilton-Jacobi-Bellman equations and provides tools for analyzing both single neuron and population-level dynamics.
 
