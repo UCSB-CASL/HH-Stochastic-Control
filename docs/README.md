@@ -22,7 +22,7 @@ This repository contains the MATLAB post-processing code and data for analyzing 
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/faranakR/HH-Stochastic-Control.git
+   git clone https://github.com/faranakR/HH-Stochastic-Control.git
 2. Add all subfolders to the MATLAB path:
 addpath(genpath('code'));
 addpath(genpath('__Output'));
